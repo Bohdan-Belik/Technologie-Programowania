@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","test.pmd","src/test/pmd/PMDTest.java","3","3","AtLeastOneConstructor: Each class should declare at least one constructor","Code Style","AtLeastOneConstructor"
+"2","test.pmd","src/test/pmd/PMDTest.java","3","3","AtLeastOneConstructor: Each class should declare at least one constructor","Code Style","AtLeastOneConstructor"
+"3","test.pmd","src/test/pmd/PMDTest.java","3","3","CommentRequired: Class comments are required","Documentation","CommentRequired"
+"4","test.pmd","src/test/pmd/PMDTest.java","3","3","CommentRequired: Class comments are required","Documentation","CommentRequired"

@@ -1,0 +1,59 @@
+{
+  "formatVersion": 0,
+  "pmdVersion": "6.29.0",
+  "timestamp": "2020-11-03T13:18:52.086+02:00",
+  "files": [
+    {
+      "filename": "src/test/pmd/PMDTest.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 0,
+          "endline": 5,
+          "endcolumn": 0,
+          "description": "AtLeastOneConstructor: Each class should declare at least one constructor",
+          "rule": "AtLeastOneConstructor",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.29.0/pmd_rules_java_codestyle.html#atleastoneconstructor"
+        },
+        {
+          "beginline": 3,
+          "begincolumn": 0,
+          "endline": 5,
+          "endcolumn": 0,
+          "description": "AtLeastOneConstructor: Each class should declare at least one constructor",
+          "rule": "AtLeastOneConstructor",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.29.0/pmd_rules_java_codestyle.html#atleastoneconstructor"
+        },
+        {
+          "beginline": 3,
+          "begincolumn": 0,
+          "endline": 5,
+          "endcolumn": 0,
+          "description": "CommentRequired: Class comments are required",
+          "rule": "CommentRequired",
+          "ruleset": "Documentation",
+          "priority": 3,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired"
+        },
+        {
+          "beginline": 3,
+          "begincolumn": 0,
+          "endline": 5,
+          "endcolumn": 0,
+          "description": "CommentRequired: Class comments are required",
+          "rule": "CommentRequired",
+          "ruleset": "Documentation",
+          "priority": 3,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired"
+        }
+      ]
+    }
+  ],
+  "suppressedViolations": [],
+  "processingErrors": [],
+  "configurationErrors": []
+}
